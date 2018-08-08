@@ -18,5 +18,7 @@ o Laptop Docking Station
 o For Windows
 o 60W Power Delivery
 o 4K 60 DP + HDMI
-Work with mac?
+Work with MacBook Pro (15-inch, 2016)
+running macOS Sierra v10.12.6
+Any special drivers needed.
 https://www.startech.com/Cards-Adapters/Laptop-docking-stations/triple-4k-usb-c-laptop-docking-station~DK30CH2DPPD
